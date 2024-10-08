@@ -4,7 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Flutter application retrieves random quotes along with their authors. Users can save their favorite quotes to a favorites list and share them with others.
+
+Features:
+
+    Generates random quotes upon request.
+    Enables users to save quotes to their favorites list.
+    Facilitates sharing quotes across various platforms.
 
 A few resources to get you started if this is your first Flutter project:
 
